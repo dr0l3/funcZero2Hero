@@ -1,0 +1,10 @@
+- Hello World
+- Simple functions
+- Currying
+- Type Classes
+- ADTs
+- Pattern matching
+- Functors
+- Applicatives
+- Monads
+- Free Monads and interpreters
