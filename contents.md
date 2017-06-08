@@ -1,5 +1,10 @@
-- Hello World
-- Simple functions
+- Hello World [first pass done]
+- Simple functions [first pass done]
+  - Functions as variables
+  - Functions returning functions
+- Useful functions
+- Dealing with the outside world [first pass done]
+- Testing
 - Currying
 - Type Classes
 - ADTs
