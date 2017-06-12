@@ -12,4 +12,6 @@
 - Functors
 - Applicatives
 - Monads
+- Stacking monads
 - Free Monads and interpreters
+- Generic programming
